@@ -149,3 +149,4 @@ cp .env.example .env
 ### Odtwarzanie głosowe
 Funkcja odtwarzania głosowego wymaga klucza API ElevenLabs. Możesz go uzyskać na stronie [ElevenLabs](https://elevenlabs.io/).
 pl
+ppppppp
